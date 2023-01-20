@@ -184,7 +184,8 @@ font-size: 19px;
     transform:rotate(0);
 }
 ::-webkit-scrollbar {
-    width: 0;  /* Remove scrollbar space */
+    width: 0;
+      /* Remove scrollbar space */
     background: transparent;  /* Optional: just make scrollbar invisible */
 }
 html,body{
